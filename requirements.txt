@@ -1,0 +1,10 @@
+# Python 3.9+ (the notebook was developed on 3.9.16)
+gymnasium>=0.29
+stable-baselines3>=2.0
+numpy>=1.23
+Pillow>=9.0
+matplotlib>=3.5
+tensorboard>=2.10
+# needed by PPO.learn(progress_bar=True)
+tqdm>=4.60
+rich>=12.0
